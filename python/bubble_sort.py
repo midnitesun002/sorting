@@ -1,5 +1,7 @@
 #!/usr/bin/python
 
+# Reference: https://en.wikipedia.org/wiki/Bubble_sort
+
 def bubble(array):
  # This sort iterates through every item in the array, swapping elements
  # that are out of order. The largest element moves to the end of the array
